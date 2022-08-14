@@ -1,0 +1,59 @@
+c:\users\dysania\documents\visual studio 2015\Projects\Kitap\Kitap\bin\Debug\Kitap.exe.config
+E:\Kitap\Kitap\bin\Debug\Kitap.exe.config
+C:\Users\Dysania\Documents\Okul\3.dönem\Kitap\Kitap\bin\Debug\Kitap.exe.config
+D:\Kitap\Kitap\bin\Debug\Kitap.exe.config
+D:\Kitap\Kitap\bin\Debug\Kitap.exe
+D:\Kitap\Kitap\bin\Debug\Kitap.pdb
+D:\Kitap\Kitap\obj\Debug\Kitap.csprojResolveAssemblyReference.cache
+D:\Kitap\Kitap\obj\Debug\Kitap.Form2.resources
+D:\Kitap\Kitap\obj\Debug\Kitap.Properties.Resources.resources
+D:\Kitap\Kitap\obj\Debug\Kitap.csproj.GenerateResource.Cache
+D:\Kitap\Kitap\obj\Debug\Kitap.exe
+D:\Kitap\Kitap\obj\Debug\Kitap.pdb
+D:\Kitap\Kitap\obj\Debug\Kitap.Form1.resources
+D:\Kitap\Kitap\obj\Debug\Kitap.Form3.resources
+E:\Kitap\Kitap\obj\Debug\Kitap.exe
+E:\Kitap\Kitap\obj\Debug\Kitap.pdb
+E:\Kitap\Kitap\bin\Debug\Kitap.exe
+E:\Kitap\Kitap\bin\Debug\Kitap.pdb
+E:\Kitap\Kitap\obj\Debug\Kitap.csprojResolveAssemblyReference.cache
+E:\Kitap\Kitap\obj\Debug\Kitap.Form1.resources
+E:\Kitap\Kitap\obj\Debug\Kitap.Form2.resources
+E:\Kitap\Kitap\obj\Debug\Kitap.Form3.resources
+E:\Kitap\Kitap\obj\Debug\Kitap.Properties.Resources.resources
+E:\Kitap\Kitap\obj\Debug\Kitap.csproj.GenerateResource.Cache
+F:\Kitap\Kitap\bin\Debug\Kitap.exe.config
+F:\Kitap\Kitap\obj\Debug\Kitap.exe
+F:\Kitap\Kitap\obj\Debug\Kitap.pdb
+F:\Kitap\Kitap\bin\Debug\Kitap.exe
+F:\Kitap\Kitap\bin\Debug\Kitap.pdb
+F:\Kitap\Kitap\obj\Debug\Kitap.csprojResolveAssemblyReference.cache
+F:\Kitap\Kitap\obj\Debug\Kitap.Form1.resources
+F:\Kitap\Kitap\obj\Debug\Kitap.Form2.resources
+F:\Kitap\Kitap\obj\Debug\Kitap.Form3.resources
+F:\Kitap\Kitap\obj\Debug\Kitap.Properties.Resources.resources
+F:\Kitap\Kitap\obj\Debug\Kitap.csproj.GenerateResource.Cache
+C:\Users\user.DESKTOP-G33DKFT\Documents\okul\Okul 3.dönem\Kitap\Kitap\bin\Debug\Kitap.exe.config
+C:\Users\user.DESKTOP-G33DKFT\Documents\okul\Okul 3.dönem\Kitap\Kitap\obj\Debug\Kitap.exe
+C:\Users\user.DESKTOP-G33DKFT\Documents\okul\Okul 3.dönem\Kitap\Kitap\obj\Debug\Kitap.pdb
+C:\Users\user.DESKTOP-G33DKFT\Documents\okul\Okul 3.dönem\Kitap\Kitap\bin\Debug\Kitap.exe
+C:\Users\user.DESKTOP-G33DKFT\Documents\okul\Okul 3.dönem\Kitap\Kitap\bin\Debug\Kitap.pdb
+C:\Users\user.DESKTOP-G33DKFT\Documents\okul\Okul 3.dönem\Kitap\Kitap\obj\Debug\Kitap.csprojResolveAssemblyReference.cache
+C:\Users\user.DESKTOP-G33DKFT\Documents\okul\Okul 3.dönem\Kitap\Kitap\obj\Debug\Kitap.Form1.resources
+C:\Users\user.DESKTOP-G33DKFT\Documents\okul\Okul 3.dönem\Kitap\Kitap\obj\Debug\Kitap.Form2.resources
+C:\Users\user.DESKTOP-G33DKFT\Documents\okul\Okul 3.dönem\Kitap\Kitap\obj\Debug\Kitap.Form3.resources
+C:\Users\user.DESKTOP-G33DKFT\Documents\okul\Okul 3.dönem\Kitap\Kitap\obj\Debug\Kitap.Properties.Resources.resources
+C:\Users\user.DESKTOP-G33DKFT\Documents\okul\Okul 3.dönem\Kitap\Kitap\obj\Debug\Kitap.csproj.GenerateResource.Cache
+C:\Users\ceser\Desktop\Kitap\Kitap\bin\Debug\Kitap.exe.config
+C:\Users\ceser\Desktop\Kitap\Kitap\bin\Debug\Kitap.exe
+C:\Users\ceser\Desktop\Kitap\Kitap\bin\Debug\Kitap.pdb
+C:\Users\ceser\Desktop\Kitap\Kitap\obj\Debug\Kitap.csproj.AssemblyReference.cache
+C:\Users\ceser\Desktop\Kitap\Kitap\obj\Debug\Kitap.csproj.SuggestedBindingRedirects.cache
+C:\Users\ceser\Desktop\Kitap\Kitap\obj\Debug\Kitap.Form1.resources
+C:\Users\ceser\Desktop\Kitap\Kitap\obj\Debug\Kitap.Form2.resources
+C:\Users\ceser\Desktop\Kitap\Kitap\obj\Debug\Kitap.Form3.resources
+C:\Users\ceser\Desktop\Kitap\Kitap\obj\Debug\Kitap.Properties.Resources.resources
+C:\Users\ceser\Desktop\Kitap\Kitap\obj\Debug\Kitap.csproj.GenerateResource.cache
+C:\Users\ceser\Desktop\Kitap\Kitap\obj\Debug\Kitap.csproj.CoreCompileInputs.cache
+C:\Users\ceser\Desktop\Kitap\Kitap\obj\Debug\Kitap.exe
+C:\Users\ceser\Desktop\Kitap\Kitap\obj\Debug\Kitap.pdb
